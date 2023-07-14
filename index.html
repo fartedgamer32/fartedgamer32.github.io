@@ -1,33 +1,22 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title></title>
-    </head>
-    <body>
-        <script type="text/javascript">
-            window.onload = function() {
+<head>
+  <title>BONZAI MONKEY</title>
+  <link rel="icon" type="image/x-icon" href="https://i1.sndcdn.com/avatars-UyAtOCAZ2dVbT0hb-9CZ9Fw-t500x500.jpg">
+</head>
 
-                var desktopFallback = "https://www.youtube.com/@bonzaimonkeeswag",
-                mobileFallback = "https://www.youtube.com/@bonzaimonkeeswag",
-                app = "vnd.youtube://@bonzaimonkeeswag";
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body
+<p style="text-align:center;"><img src="https://www.dropbox.com/scl/fi/55mf5eci4xkjves0s8ntd/soundcloud.png?rlkey=qwewkssklax88wxzjipc1dwao&dl=1" href= "https://soundcloud.com/bonzaimonkee" width="400" height="400" alt="2200"> </p>
+<p style = "font-family:georgia,garamond,serif;font-size:19px;color: white;">
+        ^ click 2 check out my soundcloud yuhh !! :D
+      </p>
+</body>
+<style>
+body {
+  background-image: url('https://www.dropbox.com/s/0f5395gupcauc86/websitebackgroundFINAL.jpg?dl=1');
+background-size: cover;
+}
+</style>
 
-                if( /Android|iPhone|iPad|iPod/i.test(navigator.userAgent) ) {
-                    window.location = app;
-                    window.setTimeout(function() {
-                        window.location = mobileFallback;
-                    }, 25);
-                } else {
-                    window.location = desktopFallback;
-                }
-
-                function killPopup() {
-                    window.removeEventListener('pagehide', killPopup);
-                }
-
-                window.addEventListener('pagehide', killPopup);
-
-            };
-        </script>
-    </body>
 </html>
