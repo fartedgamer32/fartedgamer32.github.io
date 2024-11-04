@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BONZAI MONKEY</title>
+  <link rel="icon" type="image/x-icon" href="https://cdns-images.dzcdn.net/images/cover/39a58481ee5ed1678e112019f80cfdd8/1900x1900-000000-80-0-0.jpg">
+  
+  <p style = "font-family:georgia,garamond,serif;font-size:30px;color:darkred;margin:px;">
+   BONZAIMONKEE
+      </p>
+  <p style = "font-family:georgia,garamond,serif;font-size:25px;color:grey;margin:px;">
+   FALL NEVERMORE MIXTAPE
+      </p>
+  <div class="header" >
+    <a href="./fallnevermore">
+  <img  src="https://www.dropbox.com/scl/fi/frbhb1nwt1vcytjklne10/bonzaimonkee-fall-nevermore.jpg?rlkey=iel43gh5sxu0gk2bg76l71974&st=6zntom9z&dl=1"  width="300" height="300" alt="bonzaimonkee fall nevermore" name="bonzaimonkee fall nevermore">
+    </a>
+</div>
+</head>
+  
+  <style type ="text/css" >
+   .footer{ 
+       position: fixed;     
+    color: darkred;
+       text-align: center;    
+       bottom: 0px; 
+       width: 100%;
+    font-size: 20px
+   }  
+  </style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body
+      <p style="text-align:center;font-family:georgia,garamond,serif;font-size:30px;color:lightgrey;margin:px" >
+  
+      <p style = "font-family:georgia,garamond,serif;font-size:19px;color: white;">
+        ↑click for notes & archive↑
+      </p>
+      <p style="text-align:center;">
+   <a href= "spotify:artist:2cQGmEoFgZvXC25EiVKXBe"><img src="https://cdn-icons-png.flaticon.com/512/174/174872.png"  width="70" height="70" alt="2200"> </a>
+  
+  <a href= "./youtube"><img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png"  width="90" height="90" alt="2200"> </a>
+  
+    <a href= "https://on.soundcloud.com/?link=https%3A//soundcloud.com/bonzaimonkee%3Fref%3Dclipboard%26p%3Da%26c%3D1%26si%3D28aef1655b5c4c6399198a480009e973%26utm_source%3Dclipboard%26utm_medium%3Dmobi%26utm_campaign%3Dsocial_sharing%26utm_content%3Ddownload_button_header&apn=com.soundcloud.android&ibi=com.soundcloud.TouchApp&isi=336353151&efr=1&utm_source=clipboard&utm_content=download_button_header&utm_medium=mobi&utm_campaign=social_sharing&mt=8&at=clipboard&pt=mobi&ct=social_sharing"><img src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-soundcloud-4661625_122489.png"  width="70" height="70" alt="2200"> </a>
+  
+  
+  </p>
+
+</p>
+<p style = "font-family:georgia,garamond,serif;font-size:19px;color: white;">
+        ↑click for all plats↑
+      </p>
+<p style = "font-family:georgia,garamond,serif;font-size:10px; color:darkgrey;">
+        apple music:bonzaimonkee
+      </p>
+
+<img src="https://2.bp.blogspot.com/-9hs5xQmkn3E/XW_DUBrmMUI/AAAAAAAUzaI/WjQ1Lu7L78QyxOP1s9W5pyYrRABkZkVJgCLcBGAs/s1600/AW3993832_00.gif"  width="80" height="80" alt="2200">
+<a href= "https://discord.com/invite/kmfZnsg5zw"><img src="https://i.redd.it/p5f98uef7cy51.png"  width="90" height="90" alt="2200"> </a>
+<div class="footer">instagram @bonzaimonkee</div>
+<style>
+  
+  
+
+  
+  
+body {
+  background-image: url('https://www.dropbox.com/s/0f5395gupcauc86/websitebackgroundFINAL.jpg?dl=1');
+background-size: cover;
+background-color: rgb(0,0, 0);
+}
+</style>
+</html>
