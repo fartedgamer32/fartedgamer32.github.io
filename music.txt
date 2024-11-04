@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BONZAI MONKEY</title>
+  <link rel="icon" type="image/x-icon" href="https://i1.sndcdn.com/avatars-YAP58zzRNRSbPlRP-yOwDpw-t500x500.jpg">
+  
+  <style type ="text/css" >
+   .footer{ 
+       position: fixed;     
+    color: darkred;
+       text-align: center;    
+       bottom: 0px; 
+       width: 100%;
+   }  
+</style>
+  
+</head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body
+      <p style="text-align:center;">
+  
+  
+  </p>
+<p style = "font-family:georgia,garamond,serif;font-size:30px;color:white;margin:px;">
+     BONZAIMONKEE DISCOGRAPHY
+      </p>
+<!-- ADD NEW SONG HERE-->
+<p style = "font-family:georgia,garamond,serif;font-size:40px;color:red;margin:40px;">
+       Astray, Forevermore EP
+  <h3>
+    10.20.23
+</h3>
+      </p>
+<iframe width="250" height="250" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1708035417&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonzaimonkee" title="bonzaimonkee" target="_blank" style="color: #cccccc; text-decoration: none;">bonzaimonkee</a> · <a href="https://soundcloud.com/bonzaimonkee/sets/untitled-forevermore" title="astray, forevermore" target="_blank" style="color: #cccccc; text-decoration: none;">astray, forevermore</a></div>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6iG32Wpm8W7CUtlWSXONSr?utm_source=generator&theme=0" width="250" height="250" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="250" height="250" src="https://www.youtube.com/embed/videoseries?si=tAxLOEipNBjsmFpm&amp;list=PLBWptKncYOYA6IUB7F26kJk9fgC-QTazP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p style = "font-family:georgia,garamond,serif;font-size:25px;color:maroon;margin:20px;">
+       not alright 2
+  <h3>
+    9.9.23
+</h3>
+      </p>
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1611749163&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonzaimonkee" title="bonzaimonkee" target="_blank" style="color: #cccccc; text-decoration: none;">bonzaimonkee</a> · <a href="https://soundcloud.com/bonzaimonkee/not-alright-2" title="not alright 2 w silica [silica]" target="_blank" style="color: #cccccc; text-decoration: none;">not alright 2 w silica [silica]</a></div>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4JUp1ItwGKL1LvrV7ojp0u?utm_source=generator&theme=0" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="300" height="200" src="https://www.youtube.com/embed/baQDMb-780o?si=FhmiRL548lr9UapZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p style = "font-family:georgia,garamond,serif;font-size:25px;color:maroon;margin:20px;">
+       idgaf w rachyl
+  <h3>
+    8.26.23
+</h3>
+      </p>
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1600433187&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonzaimonkee" title="bonzaimonkee" target="_blank" style="color: #cccccc; text-decoration: none;">bonzaimonkee</a> · <a href="https://soundcloud.com/bonzaimonkee/idgaf" title="idgaf w rachyl [rachyl]" target="_blank" style="color: #cccccc; text-decoration: none;">idgaf w rachyl [rachyl]</a></div>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5nulK0E2sMwRaaXTVvBEVb?utm_source=generator&theme=0" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="300" height="200" src="https://www.youtube.com/embed/KycFV1b71aA?si=BHMorQLRgFxcHk67" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p style = "font-family:georgia,garamond,serif;font-size:25px;color:maroon;margin:20px;">
+       run out of things to say
+  <h3>
+    8.15.23
+</h3>
+      </p>
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1593068763&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonzaimonkee" title="bonzaimonkee" target="_blank" style="color: #cccccc; text-decoration: none;">bonzaimonkee</a> · <a href="https://soundcloud.com/bonzaimonkee/run-out-of-things-to-say" title="run out of things to say [bonzaimonkee]" target="_blank" style="color: #cccccc; text-decoration: none;">run out of things to say [bonzaimonkee]</a></div>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0YF4od0T6WuEatU2sO5UMW?utm_source=generator&theme=0" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="300" height="200" src="https://www.youtube.com/embed/MfPswtU56vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p style = "font-family:georgia,garamond,serif;font-size:25px;color:maroon;margin:20px;">
+       deities wrath
+  <h3>
+    8.5.23
+</h3>
+      </p>
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1582823551&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonzaimonkee" title="bonzaimonkee" target="_blank" style="color: #cccccc; text-decoration: none;">bonzaimonkee</a> · <a href="https://soundcloud.com/bonzaimonkee/deities-wrath" title="deities wrath [rachyl]" target="_blank" style="color: #cccccc; text-decoration: none;">deities wrath [rachyl]</a></div>
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/6PQ5TUgi42AwjSkOFetjWF?utm_source=generator&theme=0" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="300" height="200" src="https://www.youtube.com/embed/UqsPMGgnMhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<p style = "font-family:georgia,garamond,serif;font-size:40px;color:red;margin:40px;">
+       Nihility EP
+  <h3>
+    7.18.23
+</h3>
+      </p>
+
+
+<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1653758830&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonzaimonkee" title="bonzaimonkee" target="_blank" style="color: #cccccc; text-decoration: none;">bonzaimonkee</a> · <a href="https://soundcloud.com/bonzaimonkee/sets/nihility" title="nihility" target="_blank" style="color: #cccccc; text-decoration: none;">nihility</a></div>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6muOUTCbp8CoMWMwo2vw0a?utm_source=generator&theme=0" width="100%" height="400" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/videoseries?list=PLBWptKncYOYA3M6mCxVm1RG3m_tl7x5tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p style = "font-family:georgia,garamond,serif;font-size:19px;color: white;">
+       .
+      </p>
+<p style = "font-family:georgia,garamond,serif;font-size:19px;color: white;">
+       .
+      </p><p style = "font-family:georgia,garamond,serif;font-size:19px;color: white;">
+       .
+      </p>
+
+<a href= "./">
+  <p style = "font-family:georgia,garamond,serif;font-size:25px;color: red; margin: 20px;">
+   <u>   Return </u>
+      </p> </a>
+<div class="footer">instagram @bonzaimonkee</div>
+
+<style>
+  
+  
+
+  
+  
+body {
+  background-image: url('https://www.dropbox.com/s/0f5395gupcauc86/websitebackgroundFINAL.jpg?dl=1');
+background-size: cover;
+background-color: rgb(0,0, 0);
+}
+</style>
+</html>
